@@ -1,0 +1,24 @@
+
+.leftContent{
+    
+    width: 100%;
+    height: 100%;
+}
+
+.leftContent ul{
+    width: 100%;
+    height: 85%;
+    margin-top: 24%;
+    font-size: 0.42rem;
+    overflow: hidden;
+}
+
+.leftContent p{
+    margin-top: 0.6rem;
+    word-break: break-all;
+    color: #ffffff;
+    font-size:0.41rem;
+    padding: 0 0.28rem;
+    text-indent: -0.2rem;
+    line-height: 0.6rem;
+}
